@@ -2,7 +2,7 @@
 
 Hello! 🙂
 
-If you are here, it means you want to learn more about various topics such as **Artificial Intelligence (AI)** or **Machine Learning (ML)**. This organisation on Github aims to promote knowledge sharing between BI4ALL members, enriching each member's knowledge. If you want to be able to access to our use cases, please follow the steps below. But first, watch this welcome message from our team to understand better what we do and how we will help you with this Organisation!
+If you are here, it means you want to learn more about various topics such as **Artificial Intelligence (AI)** or **Machine Learning (ML)**. This organisation on Github aims to promote knowledge sharing between BI4ALL members, enriching each member's knowledge. If you want to be able to access to our use cases, please follow the steps below. But first, watch this welcome message from our team to understand better who we are, what we do and how we will help you with this Organisation!
 
 *[A Really Preety Video Coming soon]*
 
