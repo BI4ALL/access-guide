@@ -10,7 +10,7 @@ If you are here, it means you want to learn more about various topics such as **
 
 The registration process is quite simple:
 
-1. You have a BI4ALL e-mail adress. Use it to create an account on Github.
+1. You have a BI4ALL e-mail address. Use it to create an account on Github.
 2. Your Github name should be your "*BI4ALL username*" + "*-bi4all*". Example: *jdoe-bi4all*
 3. Finnally, to access AI and ML repositories, please e-mail BI4ALL **AI & Data Science** team.
 
