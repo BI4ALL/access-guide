@@ -15,3 +15,6 @@ The registration process is quite simple:
 3. Finally, to access AI and ML repositories, please e-mail BI4ALL **AI & Data Science** team.
 
 And now, you are able to start your **AI** and **ML** ride! 
+
+
+[Classification repositories](https://github.com/BI4ALL?q=classification&type=&language=&sort=)
